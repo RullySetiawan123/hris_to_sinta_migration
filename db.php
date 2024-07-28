@@ -2,7 +2,7 @@
 function getMySQLConnection() {
     $mysqlHost = '10.4.198.26';
     $mysqlUser = 'hris_dev';
-    $mysqlPass = 'semengresik123';
+    $mysqlPass = '#######';
     $mysqlDb = 'hris_dev';
 
     try {
